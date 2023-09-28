@@ -14,6 +14,12 @@ ul {
 .precious-single {
     transform: scale(1);
 }
+.offer-btn {
+    top: -10px;
+    right: 15px;
+    font-size: 15px; 
+    padding: 3px 8px;
+}
 @media screen and (max-width:700px){
     .container {
         padding: 20px;
