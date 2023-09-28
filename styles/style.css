@@ -30,4 +30,10 @@ ul {
     .carousel-item > img {
         height: 330px;
     }
+    .banner-content{
+        width: 75% !important;
+    }
+    .precious {
+        text-align: center;
+    }
 }
