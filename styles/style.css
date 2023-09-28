@@ -1,0 +1,28 @@
+.precious > li{
+    list-style: none;
+    line-height: 30px;
+}
+ul {
+    padding: 0;
+}
+.precious > ul > li > i {
+    width: 17px;
+    height: 17px;
+    font-size: 10px;
+    background-color: #2563EB;
+}
+.precious-single {
+    transform: scale(1);
+}
+@media screen and (max-width:700px){
+    .container {
+        padding: 20px;
+    }
+    
+    .precious-single-1{
+        order:2;
+    }
+    .precious-single-2{
+        order: 1;
+    }
+}
