@@ -18,11 +18,16 @@ ul {
     .container {
         padding: 20px;
     }
-    
     .precious-single-1{
         order:2;
     }
     .precious-single-2{
         order: 1;
+    }
+    .my-5 {
+        margin: 0 !important;
+    }
+    .carousel-item > img {
+        height: 330px;
     }
 }
